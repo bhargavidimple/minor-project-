@@ -40,6 +40,7 @@ To address this, we trained a YOLOv5 object detection model that identifies and 
 - Manual annotation using **Roboflow**
 - Exported in YOLO format (.txt and .yaml)
 - Data Augmentation: flipping, rotation, brightness adjustment, etc.
+-  we have uploaded the dataset in kaggle (link):https://www.kaggle.com/datasets/bhargavidimple/pcos-ultrasound-images-and-annotation-files
 
 ---
 
